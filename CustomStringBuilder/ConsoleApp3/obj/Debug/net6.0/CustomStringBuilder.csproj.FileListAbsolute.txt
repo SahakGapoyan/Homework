@@ -1,0 +1,15 @@
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\bin\Debug\net6.0\CustomStringBuilder.exe
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\bin\Debug\net6.0\CustomStringBuilder.deps.json
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\bin\Debug\net6.0\CustomStringBuilder.runtimeconfig.json
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\bin\Debug\net6.0\CustomStringBuilder.dll
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\bin\Debug\net6.0\CustomStringBuilder.pdb
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.csproj.AssemblyReference.cache
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.AssemblyInfoInputs.cache
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.AssemblyInfo.cs
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.dll
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\refint\CustomStringBuilder.dll
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.pdb
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\CustomStringBuilder.genruntimeconfig.cache
+C:\Users\sahak\source\repos\Homework ACA\Homework\CustomStringBuilder\ConsoleApp3\obj\Debug\net6.0\ref\CustomStringBuilder.dll
